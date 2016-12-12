@@ -1,0 +1,36 @@
+[Fri Sep 30 02:14:27.608981 2016] [:error] [pid 12965] [client 54.218.100.120:63920] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Sat Oct 01 09:36:30.198313 2016] [:error] [pid 20004] [client 54.161.255.143:60391] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Sun Oct 02 11:19:13.274229 2016] [:error] [pid 3896] [client 149.202.175.145:53285] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Sun Oct 02 11:20:18.323724 2016] [:error] [pid 3892] [client 149.202.175.145:55957] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Sun Oct 02 17:18:39.935230 2016] [:error] [pid 7518] [client 54.196.242.136:54153] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Thu Oct 06 14:05:15.989223 2016] [:error] [pid 17715] [client 195.242.80.108:53392] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat, referer: http://averagepriceforanapp.com/licence.php
+[Fri Oct 07 07:19:45.872639 2016] [:error] [pid 5302] [client 104.200.154.14:49292] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Fri Oct 07 07:19:46.715592 2016] [:error] [pid 6510] [client 104.200.154.14:49354] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Fri Oct 07 07:19:46.918931 2016] [:error] [pid 5302] [client 104.200.154.14:49368] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Fri Oct 07 07:19:47.519022 2016] [:error] [pid 5174] [client 104.200.154.14:49403] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Sat Oct 08 05:18:11.304697 2016] [:error] [pid 14129] [client 149.202.175.145:53984] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Sat Oct 08 05:19:35.775049 2016] [:error] [pid 12051] [client 149.202.175.145:59492] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Mon Oct 10 13:10:41.922835 2016] [:error] [pid 13208] [client 178.151.142.134:63141] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 13:17:21.920297 2016] [:error] [pid 13214] [client 178.151.142.134:64499] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Mon Oct 10 13:35:21.882177 2016] [:error] [pid 13208] [client 186.213.13.244:59855] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 13:38:03.170003 2016] [:error] [pid 11844] [client 186.213.13.244:60783] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Mon Oct 10 13:52:53.921074 2016] [:error] [pid 11844] [client 94.25.170.246:40299] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 13:55:59.994393 2016] [:error] [pid 13099] [client 94.25.170.246:58135] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Mon Oct 10 14:11:12.728275 2016] [:error] [pid 13099] [client 178.69.187.165:14782] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 14:13:57.074866 2016] [:error] [pid 13205] [client 178.69.187.165:15676] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Mon Oct 10 14:27:01.448522 2016] [:error] [pid 12498] [client 93.185.21.111:33860] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Mon Oct 10 14:29:01.863258 2016] [:error] [pid 13211] [client 93.185.21.111:32033] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat
+[Tue Oct 11 20:24:14.860881 2016] [:error] [pid 32302] [client 47.88.0.90:49586] script '/var/www/averagepriceforanapp.com/admin_index.php' not found or unable to stat, referer: http://averagepriceforanapp.com/admin_index.php
+[Tue Oct 11 20:24:16.586537 2016] [:error] [pid 32302] [client 47.88.0.90:49586] script '/var/www/averagepriceforanapp.com/admin.php' not found or unable to stat, referer: http://averagepriceforanapp.com/admin.php
+[Tue Oct 11 20:24:18.272128 2016] [:error] [pid 32302] [client 47.88.0.90:49586] script '/var/www/averagepriceforanapp.com/admin_login.php' not found or unable to stat, referer: http://averagepriceforanapp.com/admin_login.php
+[Thu Oct 13 06:50:47.544245 2016] [:error] [pid 19591] [client 199.15.233.162:64533] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Thu Oct 13 06:50:47.586697 2016] [:error] [pid 19591] [client 199.15.233.162:64533] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Wed Oct 26 08:44:20.380433 2016] [:error] [pid 22344] [client 31.129.168.223:50007] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Wed Oct 26 13:47:41.498690 2016] [:error] [pid 24943] [client 31.129.168.223:61233] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Wed Oct 26 15:11:00.840927 2016] [:error] [pid 24908] [client 31.129.168.223:55259] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Sun Nov 06 01:05:17.537833 2016] [:error] [pid 18699] [client 93.179.68.167:46726] script '/var/www/averagepriceforanapp.com/giftcertificates.php' not found or unable to stat, referer: http://AVERAGEPRICEFORANAPP.COM/giftcertificates.php
+[Fri Nov 18 17:32:14.229640 2016] [:error] [pid 6286] [client 54.202.225.48:59080] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Sat Nov 19 23:33:56.721380 2016] [:error] [pid 23642] [client 88.198.159.218:47223] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Mon Nov 21 09:02:18.096985 2016] [:error] [pid 20142] [client 35.162.55.82:61822] script '/var/www/averagepriceforanapp.com/wp-login.php' not found or unable to stat
+[Mon Dec 12 07:15:18.172048 2016] [autoindex:error] [pid 4107] [client 111.93.181.226:41416] AH01276: Cannot serve directory /var/www/averagepriceforanapp.com/app/: No matching DirectoryIndex (index.html,index.cgi,index.pl,index.php,index.xhtml,index.htm) found, and server-generated directory index forbidden by Options directive
+[Mon Dec 12 08:12:33.401611 2016] [access_compat:error] [pid 4285] [client 111.93.181.226:40939] AH01797: client denied by server configuration: /var/www/averagepriceforanapp.com/.env

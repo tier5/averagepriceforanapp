@@ -1,0 +1,250 @@
+
+@font-face {
+  font-family: 'CaviarDreams';
+  src: url('CaviarDreams.ttf');
+}
+.navbar-header {
+    float: none;
+}
+
+.navbar-toggle {
+    display: block;
+}
+
+.navbar-collapse.collapse {
+    display: none !important;
+}
+
+.navbar-collapse.collapse.in {
+    display: block !important;
+  	overflow-y: auto !important;
+}
+
+.navbar-nav {
+    margin: 0;
+    float: none !important; 
+}
+
+.navbar-nav li {
+	float: none;
+}
+
+.navbar-nav li > .dropdown-menu {
+	border: 0;
+	float: none;
+	width: auto;
+	position: static;
+	box-shadow: none;
+	background: inherit;
+}
+
+/* Dropdown Menu (Style design make same as Bootstrap's design. You can customize it how you want.) */
+.navbar-nav li > .dropdown-menu > li > a {
+	color: #777;
+}
+
+.navbar-default {
+    background-color: rgba(248, 248, 248, 0);
+    border-color: rgba(231, 231, 231, 0);
+}
+.navbar-toggle {
+    position: relative;
+    float: left;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-right: 15px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.first_click{
+	color:#fff;
+	margin-top:10px;
+}
+.social_share{
+	margin-top: 15px;
+}
+.head_banner{
+    background-color: #053378;
+    padding-bottom: 150px;
+}
+.blue_font{
+	color: #053378;
+	font-size: 40px;
+}
+.text_intro{
+	color: #053378;
+	font-size: 20px;
+
+}
+.intro_page{
+	text-align: center;
+}
+.ques_session{
+	background-color: #e4e4e4;
+}
+.bottom_section{
+	margin-top: 130px;
+	margin-bottom:55px;
+}
+#img_ab{
+   margin-top: -144px;
+}
+.get_start{
+	margin: 50px 0px;
+}
+
+
+/*CSS OF SECOND PAGE*/
+.ques_link{
+	top:50px;
+}
+
+.ques_links{
+	text-align: center;
+	margin-top: 60px;
+}
+.blue_fot{
+	color: #053378;
+	font-size: 40px;
+}
+.blue_fot a{
+	text-decoration: none;
+	
+
+}
+.text_intr{
+	color: #053378;
+	font-size: 16px;
+	padding-bottom: 16px;
+}
+
+
+
+/*CSS OF FIRST1 PAGE*/
+.budget_area{
+	color: #fff;
+}
+.head_start_up{
+	background-color: #053378;
+    padding-bottom: 50px;
+}
+.pages_logo{
+	margin-top: 80px;
+    margin-bottom: 20px;
+}
+.option_section{
+	background-color: #e4e4e4;
+}
+.ques_head{
+	text-align: center;
+}
+
+}
+.appli_ques h3{
+    font-size: 30px;
+    padding: 50px 0px;
+    color: #053378;
+}
+
+.btn-default {
+    color: #053378;
+    background-color: #fff;
+    border-color: #053378;
+}
+.app_andr{
+	text-align: center;
+	margin-top:30px;
+	/*margin-bottom:30px;*/
+}
+
+
+/*CSS OF FIRST2 PAGE*/
+.app_ques_second h3{
+	font-size: 30px;
+    padding: 25px 0px;
+    color: #053378;
+    text-align: center;
+}
+.app_ques_second p{
+    color: #053378;
+    text-align: center;
+}
+.select_option{
+	margin-top: 20px;
+}
+/*BUDGET PAGE CSS*/
+.budget_link{
+	padding-top: 10px;
+}
+.last_click{
+	color:#000;
+}
+.app_ques h3{
+	font-size: 30px;
+    padding: 50px 0px;
+    color: #053378;
+    text-align: center;
+}
+.message_box{
+	border: 1px solid rgb(92, 92, 92);
+	border-radius: 15px;
+	width: 500px;
+	background-color: #fff;
+	text-align: center;
+	padding:35px;
+	margin-top: 100px;
+    margin-bottom: 130px;
+}
+
+
+
+/*CSS FOR WEBSITE LINK STARTS*/
+
+.head_start{
+	background-color: #053378;
+}
+.web_startup{
+	margin-top: 55px;
+}
+.twitter-share-button{
+	height:17px !important;
+}
+
+/*CSS FOR WEBSITE FIRST 1*/
+.web_click {
+    color: #000;
+    margin-top: 10px;
+}
+.cost_area {
+    color: #000;
+    margin-top: 12px;
+}
+.web_start_up{
+    background-color: #e4e4e4;
+}
+.web_ques_second h3 {
+    font-size: 30px;
+    padding: 25px 0px;
+    color: #e4e4e4;
+    text-align: center;
+}
+.web_ques_second p {
+    color: #e4e4e4;
+    text-align: center;
+}
+.web_section {
+    background-color: #053378;
+}
+.bottom_section_web {
+    margin-top: 130px;
+    margin-bottom: 55px;
+    color: #fff;
+}
+.bottom_section_web a{
+    color: #fff;
+}
+
+
